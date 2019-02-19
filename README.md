@@ -1,5 +1,7 @@
 ## **TP Responsive Web Design**
 
+Bastien Duthu OCRES 4
+
 ![](img/exemple.gif)
 
 1. Ajouter [bootstrap](https://getbootstrap.com/docs/4.2/getting-started/download/) à votre projet
